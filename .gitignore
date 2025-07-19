@@ -1,0 +1,6 @@
+venv/
+*.webm
+*.mp4
+__pycache__/
+*.pyc
+.env

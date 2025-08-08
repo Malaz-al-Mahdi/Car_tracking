@@ -143,3 +143,6 @@ xdg==5
 xkit==0.0.0
 xlrd==2.0.1
 yt-dlp==2025.6.30
+
+easyocr
+scikit-learn
